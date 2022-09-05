@@ -1,0 +1,26 @@
+#body1{
+    background-color:skyblue;
+}
+
+h5{
+    width: 300px;
+  height: 250px;
+  border: 3px solid #ccc;
+  background: #eee;
+  margin: auto;
+  padding: 15px 10px;
+  border-radius:20px;
+  color:slategrey;
+}
+
+h3{
+    width: 150px;
+  height: 150px;
+  border: 3px solid #ccc;
+  background:tan;
+  margin: auto;
+  padding: 15px 10px;
+  border-radius:20px;
+  color:slategrey;
+}
+
